@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RandomColorGenerator/static/css/main.bd1292fd.css",
+    "main.js": "/RandomColorGenerator/static/js/main.56f5a6e5.js",
+    "index.html": "/RandomColorGenerator/index.html",
+    "main.bd1292fd.css.map": "/RandomColorGenerator/static/css/main.bd1292fd.css.map",
+    "main.56f5a6e5.js.map": "/RandomColorGenerator/static/js/main.56f5a6e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd1292fd.css",
+    "static/js/main.56f5a6e5.js"
+  ]
+}
