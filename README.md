@@ -1,3 +1,3 @@
-My website link is below
+My website link in below
 
 https://nephtys1001.github.io/RandomColorGenerator/
